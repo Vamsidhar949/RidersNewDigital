@@ -12,7 +12,20 @@
     padding-top: 8px;
     padding-bottom: 8px;
 }
+/* tag Name in image */
 
+.nameTag{
+
+  position: absolute;
+  top: 249px;
+  text-align: center;
+  width: 100%;
+  color: white;
+  font-size: 37px;
+  font-style: italic;
+  font-family: -webkit-pictograph;
+
+}
 
   /*--------------------------------------------------------------
   # Footer
